@@ -73,9 +73,7 @@ Modifier
 | Composant        | Technologie                     |
 |------------------|----------------------------------|
 | Backend API      | Flask + Python 3.11              |
-| NLP / IA         | `SentenceTransformers`, 
-                     `scikit-learn`, `PyMuPDF`,
-                      `XGBoost`                       |
+| NLP / IA         | `SentenceTransformers`, `scikit-learn`, `PyMuPDF`, `XGBoost` |
 | Frontend         | React.js                         |
 | Chatbot interne  | Rasa                             |
 | Chatbot externe  | Twilio API for WhatsApp          |
