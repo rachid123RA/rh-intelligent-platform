@@ -1,0 +1,6 @@
+flask
+PyMuPDF
+sentence-transformers
+scikit-learn
+xgboost
+smtplib
